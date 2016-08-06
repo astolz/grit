@@ -41,7 +41,10 @@ gem 'spring',        group: :development
 # Add the Rails 12factor Gem
 gem 'rails_12factor', group: :production
 
-# Adding Twitter Bootstrap 3
+# Twitter Bootstrap 3
 gem 'bootstrap-sass', '~> 3.3.5.1'
 gem 'sprockets', '2.11.0'
+
+# Form help with simple_form
+gem 'simple_form'
 
